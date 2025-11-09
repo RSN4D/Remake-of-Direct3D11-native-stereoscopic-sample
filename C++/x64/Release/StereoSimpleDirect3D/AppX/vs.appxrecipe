@@ -29,7 +29,7 @@
     <AppXManifest Include="D:\GitHub\Remake-of-Direct3D11-native-stereoscopic-sample\C++\x64\Release\StereoSimpleDirect3D\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-11-09T03:53:47.369</Modified>
+      <Modified>2025-11-09T03:56:25.135</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
