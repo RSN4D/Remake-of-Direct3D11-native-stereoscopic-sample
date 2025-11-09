@@ -1,0 +1,4 @@
+﻿  StereoSimpleDirect3D.vcxproj -> D:\GitHub\Remake-of-Direct3D11-native-stereoscopic-sample\C++\x64\Release\StereoSimpleDirect3D\StereoSimpleDirect3D.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\AppxPackage\Microsoft.AppXPackage.Targets(922,5): warning : Certificate file does not exist: StereoSimpleDirect3D_TemporaryKey.pfx
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\AppxPackage\Microsoft.AppXPackage.Targets(2840,5): warning APPX0104: Certificate file 'StereoSimpleDirect3D_TemporaryKey.pfx' not found.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\AppxPackage\Microsoft.AppXPackage.Targets(2840,5): warning APPX0107: The certificate specified is not valid for signing. For more information about valid certificates, see http://go.microsoft.com/fwlink/?LinkID=241478.

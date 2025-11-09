@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\GitHub\Remake-of-Direct3D11-native-stereoscopic-sample\C++\x64\Release\StereoSimpleDirect3D\StereoSimpleDirect3D.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\GitHub\Remake-of-Direct3D11-native-stereoscopic-sample\C++\x64\Release\StereoSimpleDirect3D\SimplePixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\GitHub\Remake-of-Direct3D11-native-stereoscopic-sample\C++\x64\Release\StereoSimpleDirect3D\SimpleVertexShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\GitHub\Remake-of-Direct3D11-native-stereoscopic-sample\C++\smallTile-sdk.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\GitHub\Remake-of-Direct3D11-native-stereoscopic-sample\C++\smallTile44-sdk.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\GitHub\Remake-of-Direct3D11-native-stereoscopic-sample\C++\splash-sdk.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\GitHub\Remake-of-Direct3D11-native-stereoscopic-sample\C++\splash310x310-sdk.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\GitHub\Remake-of-Direct3D11-native-stereoscopic-sample\C++\squareTile-sdk.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\GitHub\Remake-of-Direct3D11-native-stereoscopic-sample\C++\storeLogo-sdk.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\GitHub\Remake-of-Direct3D11-native-stereoscopic-sample\C++\storeLogo71x71-sdk.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\GitHub\Remake-of-Direct3D11-native-stereoscopic-sample\C++\wideTile310x150-sdk.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\GitHub\Remake-of-Direct3D11-native-stereoscopic-sample\C++\windowsbig-sdk.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\GitHub\Remake-of-Direct3D11-native-stereoscopic-sample\C++\texture.dds</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

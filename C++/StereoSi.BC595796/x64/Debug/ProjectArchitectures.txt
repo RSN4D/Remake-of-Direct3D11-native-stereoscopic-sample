@@ -1,0 +1,1 @@
+D:\GitHub\Remake-of-Direct3D11-native-stereoscopic-sample\C++\StereoSimpleDirect3D.vcxproj;x64
